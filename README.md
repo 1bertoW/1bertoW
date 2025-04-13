@@ -1,16 +1,20 @@
-## Hi there 👋
+#👋 Olá, eu sou Humberto Wagner!
+## 📌 Sobre Mim
+Sou Humberto Wagner de Sousa, estudante do Ensino Médio e do Curso Técnico em Informática. Apaixonado por tecnologia, estou sempre explorando novas áreas da computação, com foco em desenvolvimento web, inteligência artificial e ciência de dados.
 
-<!--
-**1bertoW/1bertoW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Habilidades e Tecnologias
+Linguagens de Programação:
 
-Here are some ideas to get you started:
+Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML & CSS
+
+Java
+
+## 🖥️ Ferramentas e Tecnologias:
+
+Git & GitHub
+
+VS Code
+
+Eclipse
