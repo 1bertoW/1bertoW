@@ -5,11 +5,9 @@ Sou Humberto Wagner de Sousa, estudante do Ensino Médio e do Curso Técnico em 
 ## 🚀 Habilidades e Tecnologias
 Linguagens de Programação:
 
-Python
-
-HTML & CSS
-
-Java
+- Python
+- HTML & CSS
+- Java
 
 ## 🖥️ Ferramentas e Tecnologias:
 
